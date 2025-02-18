@@ -17,6 +17,8 @@ A secure and easy-to-use **password generator** that creates strong, random pass
 ## 📦 Installation & Usage  
 ![](image.png)
 
+
+
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/KIHs0/password-generator.git
